@@ -1,0 +1,18 @@
+[2025-12-20 00:44:38] Phần Standard: Cào thành công 465/465 cầu thủ.
+[2025-12-20 01:01:02] Phần Possession: Cào thành công 462/465 cầu thủ.
+[2025-12-20 01:16:33] Phần Passing: Cào thành công 465/465 cầu thủ.
+[2025-12-20 01:31:44] Phần Pass Type: Cào thành công 465/465 cầu thủ.
+[2025-12-20 01:47:28] Phần Defensive: Cào thành công 465/465 cầu thủ.
+[2025-12-20 02:03:02] Phần GCA: Cào thành công 465/465 cầu thủ.
+[2026-01-06 22:31:09] Phần Standard: Cào thành công 485/485 cầu thủ.
+[2026-01-06 22:48:55] Phần Possession: Cào thành công 485/485 cầu thủ.
+[2026-01-06 23:05:37] Phần Passing: Cào thành công 485/485 cầu thủ.
+[2026-01-06 23:21:48] Phần Pass Type: Cào thành công 485/485 cầu thủ.
+[2026-01-06 23:37:50] Phần Defensive: Cào thành công 485/485 cầu thủ.
+[2026-01-06 23:53:23] Phần GCA: Cào thành công 485/485 cầu thủ.
+[2026-01-08 05:53:10] Phần Standard: Cào thành công 487/487 cầu thủ.
+[2026-01-08 06:23:49] Phần Possession: Cào thành công 485/487 cầu thủ.
+[2026-01-08 06:41:22] Phần Passing: Cào thành công 487/487 cầu thủ.
+[2026-01-08 06:57:37] Phần Pass Type: Cào thành công 487/487 cầu thủ.
+[2026-01-08 07:13:44] Phần Defensive: Cào thành công 487/487 cầu thủ.
+[2026-01-08 07:30:07] Phần GCA: Cào thành công 486/487 cầu thủ.

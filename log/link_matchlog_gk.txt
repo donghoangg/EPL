@@ -1,0 +1,32 @@
+--- Thủ môn mới được thêm vào ngày 16/12/2025 ---
+  - ID: 7a2e46a8, Tên: Alisson
+  - ID: 2f965a72, Tên: Alphonse Areola
+  - ID: 072e68ed, Tên: Altay Bayındır
+  - ID: 3d214e5f, Tên: Marco Bizot
+  - ID: cde3309f, Tên: Karl Darlow
+  - ID: 08f5afaa, Tên: Gianluigi Donnarumma
+  - ID: 3a949a25, Tên: Martin Dúbravka
+  - ID: e5a76dfe, Tên: Dean Henderson
+  - ID: c924b17d, Tên: Mads Hermansen
+  - ID: 33a235af, Tên: John
+  - ID: 9e5708be, Tên: Sam Johnstone
+  - ID: 0107757e, Tên: Filip Jørgensen
+  - ID: 62d7ef38, Tên: Caoimhín Kelleher
+  - ID: 8e6d2fcd, Tên: Senne Lammens
+  - ID: 2628fd2b, Tên: Bernd Leno
+  - ID: d4b73232, Tên: Giorgi Mamardashvili
+  - ID: 7956236f, Tên: Emiliano Martínez
+  - ID: 5dbd461a, Tên: Lucas Perri
+  - ID: 0cf321c8, Tên: Đorđe Petrović
+  - ID: 4806ec67, Tên: Jordan Pickford
+  - ID: 4b40d9ca, Tên: Nick Pope
+  - ID: 466fb2c5, Tên: Aaron Ramsdale
+  - ID: 98ea5115, Tên: David Raya
+  - ID: 349fa918, Tên: Robin Roefs
+  - ID: 903b6e8b, Tên: José Sá
+  - ID: 6a713852, Tên: Robert Sánchez
+  - ID: 834b5c4c, Tên: Matz Sels
+  - ID: 259fea27, Tên: James Trafford
+  - ID: cf134113, Tên: Bart Verbruggen
+  - ID: 77d6fd4d, Tên: Guglielmo Vicario
+
